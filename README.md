@@ -6,7 +6,7 @@ A secure backend authentication system built using Node.js and Express. It inclu
 
 - User Registration with Email Verification  
 - Secure Login System  
-- Forgot Password with OTP (Email आधारित)  
+- Forgot Password with OTP (via Email)  
 - Reset Password Functionality  
 - Password Hashing using bcrypt  
 - Protected Routes for authenticated users  
@@ -33,7 +33,7 @@ A secure backend authentication system built using Node.js and Express. It inclu
 - User verifies OTP  
 - User sets a new password  
   
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
 - Node.js  
 - Express.js  
